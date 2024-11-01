@@ -1,0 +1,68 @@
+<div style="width:40px; background-color: yellow; padding:5px; margin:auto;">
+    <img width="40" src="image1.jpg" alt="bacon" />
+<img width="40" src="image2.jpg" alt="eggs" />
+<img width="40" src="image3.jpg" alt="toast" />
+</div>
+<div style="background-color:#5A5A5A; color:#FFFFFF">
+    <div style="font-size:20px; font-weight:bold">
+        BREAKFAST MENU
+    </div>
+    <div>
+       4:30 am - 10:30am
+</div>
+<div style="background-color:#BBBBEE">
+    <div style="font-size:20px; font-weight:bold">
+</div>
+    <div style="color:#333333">
+        <ol>
+            <li>Bacon, Eggs & Toast</li>
+            <li>Steak, Hasbrowns, Eggs & Toast</li>
+            <li>Ham & Cheese Omlet</li>
+            <li>Milk</li>
+            <li>Soda</li>
+            <li>Coffee</li>
+        </ol>
+    </div>
+
+<div style="background-color:#5A5A5A; color:#FFFFFF">
+    <div style="font-size:20px; font-weight:bold">
+        LUNCH MENU
+    </div>
+    <div>
+       10:30 am - 2:30pm
+</div>
+<div style="background-color:#AAAAEE">
+    <div style="font-size:20px; font-weight:bold">
+</div>
+    <div style="color:#333333">
+        <ol>
+            <li>BLT & Fries</li>
+            <li>Taco Salad</li>
+            <li>Ice Tea</li>
+            <li>Milk</li>
+            <li>Soda</li>
+            <li>Coffee</li>
+        </ol>
+    </div>
+
+<div style="background-color:#5A5A5A; color:#FFFFFF">
+    <div style="font-size:20px; font-weight:bold">
+        DINNER MENU
+    </div>
+    <div>
+       2:30 pm - 8:30pm
+</div>
+<div style="background-color:#AAAAEE">
+    <div style="font-size:20px; font-weight:bold">
+</div>
+    <div style="color:#333333">
+        <ol>
+            <li>Hamburger & Fries</li>
+            <li>Chef Salad</li>
+            <li>Surf & Turf</li>
+            <li>Fish Fry</li>
+            <li>Milk</li>
+            <li>Soda</li>
+            <li>Coffee</li>
+        </ol>
+    </div>
